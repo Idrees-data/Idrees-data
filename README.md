@@ -21,7 +21,7 @@ AI Engineer
 Python Developer
 Currently building: Data → Cloud → AI → Automation
 
-
+'''
 ---
 
 ## `$ skills --stack`
