@@ -64,19 +64,7 @@ Data → Cloud → AI → Automation
 
 </p>
 
----
 
-## `$ ls projects/`
-
-| Project | Description | Stack |
-|---|---|---|
-| **E-Commerce Data Engineering** | End-to-end data pipeline and analytics | Python · SQL · PySpark |
-| **PySpark Data Pipeline** | Distributed data processing pipeline | PySpark · Databricks |
-| **Azure ETL Pipeline** | Cloud-based ETL / ELT workflow | Azure · Python · SQL |
-| **AI RAG Application** | Retrieval-Augmented Generation system | FastAPI · RAG · LLM |
-| **Power BI Analytics** | Business intelligence dashboards | SQL · Power BI |
-
----
 
 ## `$ data --pipeline`
 
