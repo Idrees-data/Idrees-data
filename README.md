@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/kratos-banner.jpg" width="100%" alt="Kratos">
+  <img src="./assets/cyberpunk-banner.jpg" width="100%" alt="Cyberpunk Banner">
 </p>
 
 <h1 align="center">Syed Idrees Hussain</h1>
@@ -20,5 +20,5 @@ Data Engineer
 AI Engineer
 Python Developer
 
-Currently building:
+Building:
 Data → Cloud → AI → Automation
